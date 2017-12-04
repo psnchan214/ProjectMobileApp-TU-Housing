@@ -1,0 +1,103 @@
+{
+  "items" : [ {
+    "address" : "64 Moo 8 Klong Nueng, Klong Luang, Pathumthani 12120",
+    "description" : "Dorm near Chiang Rak",
+    "insurance" : 15000,
+    "name" : "City Park",
+    "picNo" : "http://www.terrysfabrics.co.uk/blog/wp-content/uploads/2015/09/Modern-guest-room-music-room-and-office.jpg",
+    "price" : 6000,
+    "tel" : "0891148999",
+    "title" : "Item One",
+    "web" : "www.cityparktu.com"
+  }, {
+    "address" : "88/38 Moo 8 Klong Nueng, Klong Luang, Pathumthani 12120",
+    "description" : "Dorm near Chiang Rak 2",
+    "insurance" : 20000,
+    "name" : "Skyview",
+    "picNo" : "http://houseinnovator.com/wp-content/uploads/2014/05/college-dorms.jpg",
+    "price" : 6500,
+    "tel" : "021914990",
+    "title" : "Item Two",
+    "web" : "www.skyview-apartment.com"
+  }, {
+    "address" : "9/16 Moo 17 Phahonyothin road ,Klong Nueng, Klong Luang, Pathumthani 12120",
+    "description" : "Dorm behind TU Dome",
+    "insurance" : 8000,
+    "name" : "Golfview",
+    "picNo" : "http://3.bp.blogspot.com/-yVB34KmjXgM/T56QM78l_EI/AAAAAAAAMgc/TIji6tlSNBw/s640/10+Beautiful+Girls+Dorm+Rooms+Roundups2.png",
+    "price" : 2600,
+    "tel" : "0984451514",
+    "title" : "Item Three",
+    "web" : "www.golfview-tu.com"
+  }, {
+    "address" : "99/95 Moo 18 Klong Nueng, Klong Luang, Pathumthani 12120",
+    "description" : "Behind TU",
+    "insurance" : 15000,
+    "name" : "JC Living",
+    "picNo" : "http://2.bp.blogspot.com/-BPf-PnyZz0c/T56P7g_PAcI/AAAAAAAAMfM/p1ttFgX9Q8c/s640/10+Beautiful+Girls+Dorm+Rooms+Roundups10.png",
+    "price" : 7500,
+    "tel" : "021534188",
+    "title" : "Item Four",
+    "web" : "www.jc-living.com"
+  }, {
+    "address" : "88/39 Moo 18 Klong Nueng, Klong Kuang, Pathumthani 1212",
+    "description" : "Dorm next to TU",
+    "insurance" : 14200,
+    "name" : "Cozy Cozy",
+    "picNo" : "http://4.bp.blogspot.com/-XcUN7vr0D9s/T56P_UTsQMI/AAAAAAAAMfc/2DtIlrc6RRE/s640/10+Beautiful+Girls+Dorm+Rooms+Roundups12.png",
+    "price" : 7100,
+    "tel" : "0834943093",
+    "title" : "Item Five",
+    "web" : "www.cosycozy.com"
+  }, {
+    "address" : "999/9 Moo 18 Chiang Rak road, Klong Nueng, Klong Luang, Pathumthani 12120",
+    "description" : "Dorm near TU sport stadium",
+    "insurance" : 16000,
+    "name" : "Brownie",
+    "picNo" : "http://1.bp.blogspot.com/-HvQAGzdS4gY/T56QC5uYAKI/AAAAAAAAMfs/hB6vFp72x3E/s640/10+Beautiful+Girls+Dorm+Rooms+Roundups14.png",
+    "price" : 5500,
+    "tel" : "0847071001",
+    "title" : "Item Six",
+    "web" : "www.brownieapartment.com"
+  }, {
+    "address" : "99/18 Moo 18 Klong Nueng, Klong Luang, Pathumthani 12120",
+    "description" : "Dorm opposite TU sport stadium",
+    "insurance" : 16000,
+    "name" : "Beam Residence",
+    "picNo" : "http://2.bp.blogspot.com/-nDhHVPYZAos/T56QQsTM5FI/AAAAAAAAMgs/eX_nypJ45yk/s640/10+Beautiful+Girls+Dorm+Rooms+Roundups21.png",
+    "price" : 8000,
+    "tel" : "0824637019",
+    "title" : "Item Seven",
+    "web" : "www.facebook.com/pages/Beam-Residence/111096818963119"
+  }, {
+    "address" : "61/9-10 Moo 17 Klong Nueng, Klong Luang, Pathumthani 12120",
+    "description" : "Dorm near TU Dome",
+    "insurance" : 15000,
+    "name" : "Keystone",
+    "picNo" : "http://3.bp.blogspot.com/-qNzjRsxPSIE/T56QZqhcCqI/AAAAAAAAMhU/F0bPOVlQHyo/s640/10+Beautiful+Girls+Dorm+Rooms+Roundups26.png",
+    "price" : 7900,
+    "tel" : "021590505",
+    "title" : "Item Eight",
+    "web" : "www.facebook.com/KeystoneTU"
+  }, {
+    "address" : "36/12-15 Moo 18 Klong Nueng, Klong Luang ,Pathumthani 12120",
+    "description" : "Dorm behind TU",
+    "insurance" : 10000,
+    "name" : "Banluangsiri",
+    "picNo" : "http://2.bp.blogspot.com/-luc_mhrze6k/T56QxqybP8I/AAAAAAAAMi0/8ipN4B9VwO8/s640/10+Beautiful+Girls+Dorm+Rooms+Roundups38.png",
+    "price" : 4200,
+    "tel" : "025642941",
+    "title" : "Item Nine",
+    "web" : "www.facebook/bannluangsiri"
+  }, {
+    "address" : "112/115-116 Moo 18 Klong Nueng, Klong Luang ,Pathumthani 12120",
+    "description" : "Dorm near motorway to TU",
+    "insurance" : 11800,
+    "name" : "The Campus",
+    "picNo" : "http://4.bp.blogspot.com/-tq2KOYnBtJE/T56Q5uAnhjI/AAAAAAAAMjc/aqhQkFYNh9M/s640/10+Beautiful+Girls+Dorm+Rooms+Roundups6.png",
+    "price" : 5900,
+    "tel" : "0858171778",
+    "title" : "Item Ten",
+    "web" : "www.facebook.com/thecampusrangsit"
+  } ]
+}
